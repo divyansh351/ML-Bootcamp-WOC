@@ -19,6 +19,6 @@ Polynomial Regression [Linear Features](https://github.com/divyansh351/ML-Bootca
 
 [KNN](https://github.com/divyansh351/ML-Bootcamp-WOC/blob/main/KNN.ipynb)
 
-[K Means Clustering](https://github.com/divyansh351/ML-Bootcamp-WOC/blob/main/KNN.ipynb)
+[K Means Clustering](https://github.com/divyansh351/ML-Bootcamp-WOC/blob/main/KMeansClustering.ipynb)
 
 [Neural Network](https://github.com/divyansh351/ML-Bootcamp-WOC/blob/main/NeuralNetworks.ipynb)
